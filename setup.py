@@ -20,7 +20,7 @@ setup(
         "Topic :: Software Development :: Libraries :: Python Modules",
     ],
     install_requires=[
-        'djangorestframework>=3.0.1',
+        #'djangorestframework>=3.0.1',
         'django-oauth-toolkit>=0.7.2',
         'python-social-auth>=0.2.2'
     ],
